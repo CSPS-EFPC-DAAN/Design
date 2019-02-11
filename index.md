@@ -21,7 +21,11 @@ To get you started, we’ve created a [quick video](https://www.youtube.com/watc
 Every Thursday, you will have:
 - 9:00am - 12:00pm: Lab hours or designated learning events.
 - 1:00 - 4:00pm: In-class training in the Northwest Territories room.
-This will all take place at 111 Sussex Drive.
+This will all take place at 111 Sussex Drive. In addition to your classes on Thursdays, you will be invited to an additional learning opportunity at least once a month. Please review this evergreen master schedule for more information. 
+
+## Practicum
+
+Practicum will take place from Monday, May 6 to Friday, May 24. More details to come.
 
 ## Your Responsibilities
 
@@ -55,7 +59,7 @@ Throughout your Premium experience, you will access:
 - **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm (with full service options from 7:00am - 1:30pm).
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
 - **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
-- **Accommodations**: Please contact us at <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> 
+- **Accommodations**: Please contact us at <csps.premiumdigitalacademy-excellenceacademiquedunumerique.efpc@canada.ca> 
 if you require special accommodation.
 
 # Stay in Touch
