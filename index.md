@@ -16,20 +16,18 @@ To get you started, we’ve created a [quick video](https://www.youtube.com/watc
 * 9:00 AM - 4:00 PM
 * [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111 Sussex St., 2nd floor
 
-Two days after the Networking & Launch Event, we will be pleased to welcome you to your first full-day of Digital Academy Premium. We will meet from 9:00am-4:00pm for an orientation and speakers in the morning and an in-class session to learn  in the afternoon.
-
 ## Subsequent Classes
 
-Following the first week, every Thursday, you will have:
-- 9:00am - 12:00pm: Lab hours or designated learning events 
-- 1:00 - 4:00pm: In-class training 
+Every Thursday, you will have:
+- 9:00am - 12:00pm: Lab hours or designated learning events.
+- 1:00 - 4:00pm: In-class training in the Northwest Territories room.
 This will all take place at 111 Sussex Drive.
 
 ## Your Responsibilities
 
 Please note that **participation for the entire duration of the in-class training is mandatory**.
 
-At 4:00pm every Thursday, you will receive a short evaluation which will help improve the Premium experience for future cohorts. Your participation is managed through the completion of the weekly evaluation.
+At 4:00pm every Thursday, you will receive a short learning evaluation which will help improve the Premium experience for future cohorts.
 
 # Useful Info
 
@@ -48,7 +46,7 @@ While there are no required preparatory materials this week, you can get a head 
 Throughout your Premium experience, you will access:
 - **Slack**, for chatting with your design cohort and fellow Premium learners. You will soon receive an invitation to the Digital Academy Slack channels.
 - **GitHub**, for course content, modules and scripts. [Create a GitHub account](https://github.com/) and get acquainted with [the Digital Academy Premium Design repository](https://github.com/CSPS-EFPC-DAAN/design-learners).
-- **Textit**, to improve your Premium experience. As part of the beta cohort, your insights on topics, content, course modules and overall experience will be highly valuable!
+- **Google Form**, for attendance and learning evaluations. 
 
 ## Logistics
 
@@ -105,9 +103,7 @@ Pour commencer, nous avons créé une courte **vidéo** avec Nourhan et Ksenia p
 ## Premier cours
 * Jeudi 28 février 2019
 * De 9 h à 16 h
-* [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111 Sussex St., 2nd floor
-
-Deux jours après la soirée de lancement, nous serons heureux de vous accueillir pour votre première journée complète au programme Excellence de l’Académie du numérique de l’EFPC. Nous nous réunirons de 9 h à 16 h. La matinée sera consacrée à une séance d’orientation et à des présentations de conférenciers. En après-midi, vous serez appelé à participer à séance d’apprentissage en classe.
+* [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111, promenade Sussex, deuxieme étage
 
 ## Cours suivants
 
