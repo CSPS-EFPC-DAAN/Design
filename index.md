@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first design cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
-To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, February 26!
+To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Thursday, February 28!
 
 [![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/4/4e/DA_Intro_Video.png)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
@@ -96,7 +96,7 @@ Thank you for participating in the beta cohort of the CSPS Digital Academy - Pre
 
 Vous avez été choisi pour faire partie des premières cohortes de conception du programme **Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!**
 
-Pour commencer, nous avons créé une courte **vidéo** avec Nourhan et Ksenia pour vous parler un peu des premiers événements tenus dans le cadre du programme. Tout commence le mardi 26 février!
+Pour commencer, nous avons créé une courte **vidéo** avec Nourhan et Ksenia pour vous parler un peu des premiers événements tenus dans le cadre du programme. Tout commence le jeudi 28 février!
 
 [![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/4/4e/DA_Intro_Video.png)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
