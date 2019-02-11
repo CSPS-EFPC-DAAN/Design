@@ -21,6 +21,7 @@ To get you started, we’ve created a [quick video](https://www.youtube.com/watc
 Every Thursday, you will have:
 - 9:00am - 12:00pm: Lab hours or designated learning events.
 - 1:00 - 4:00pm: In-class training in the Northwest Territories room.
+
 This will all take place at 111 Sussex Drive. In addition to your classes on Thursdays, you will be invited to an additional learning opportunity at least once a month. Please review this evergreen master schedule for more information. 
 
 ## Practicum
@@ -29,9 +30,9 @@ Practicum will take place from Monday, May 6 to Friday, May 24. More details com
 
 ## Your Responsibilities
 
-Please note that **participation for the entire duration of the in-class training is mandatory**.
+Note that **participation for the entire duration of the in-class training is mandatory**.
 
-At 4:00pm every Thursday, you will receive a short learning evaluation which will help improve the Premium experience for future cohorts.
+Every Thursday, please complete two Google Forms to [mark attendnace](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) and [provide feedback on your Premium experience](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA).
 
 # Useful Info
 
@@ -107,13 +108,14 @@ Pour commencer, nous avons créé une courte **vidéo** avec Nourhan et Ksenia p
 ## Premier cours
 * Jeudi 28 février 2019
 * De 9 h à 16 h
-* [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111, promenade Sussex, deuxieme étage
+* [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111, promenade Sussex, 2ième étage
 
 ## Cours suivants
 
 Tous les jeudis, tu l'auras :
 - de 9 h à 12 h, travaux en laboratoire ou activités d’apprentissage/
 - de 13 h à 16 h, formation en classe dans la salle des Territoires du Nord-Ouest. 
+
 Tout se déroulera au 111, promenade Sussex. En plus de vos cours le jeudi, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Veuillez consulter cet horaire à jour pour plus d'information.
 
 ## Practicum
@@ -124,7 +126,7 @@ Practicum aura lieu du lundi 6 mai au vendredi 24 mai. Plus de détails à venir
 
 Veuillez prendre note qu’il est **obligatoire de participer en classe.**
 
-Tous les jeudis à 16 h, vous recevrez une courte évaluation qui vous permettra d’améliorer l’expérience Excellence des prochains groupes.
+Tous les jeudis, veuillez remplir deux formulaires Google pour [marquer votre présence](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) et [donner votre avis sur votre expérience Premium](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA).
 
 # Informations utiles
 
@@ -143,7 +145,7 @@ Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vo
 Tout au long de votre expérience Excellence, vous aurez accès à :
 - **Slack**, pour discuter avec vos collègues du programme de conception. Vous recevrez bientôt une invitation aux canaux Slack de l’Académie du numérique.
 - **GitHub**, pour le contenu des cours, les modules et les scripts. [Créez un compte GitHub]((https://github.com/) et familiarisez-vous avec le [répertoire Excellence de l’Académie du numérique](https://github.com/CSPS-EFPC-DAAN/design-learners).
-- **[« Google Forms »]**, pour [les évaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) de [présence et d'apprentissage](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) à compléter à chaque cours. 
+- **Formulaires Google**, pour [les évaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) de [présence et d'apprentissage](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) à compléter à chaque cours. 
 
 ## Logistics
 
