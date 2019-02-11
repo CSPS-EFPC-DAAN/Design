@@ -25,7 +25,7 @@ This will all take place at 111 Sussex Drive. In addition to your classes on Thu
 
 ## Practicum
 
-Practicum will take place from Monday, May 6 to Friday, May 24. More details to come.
+Practicum will take place from Monday, May 6 to Friday, May 24. More details coming soon.
 
 ## Your Responsibilities
 
@@ -50,7 +50,7 @@ While there are no required preparatory materials this week, you can get a head 
 Throughout your Premium experience, you will access:
 - **Slack**, for chatting with your design cohort and fellow Premium learners. You will soon receive an invitation to the Digital Academy Slack channels.
 - **GitHub**, for course content, modules and scripts. [Create a GitHub account](https://github.com/) and get acquainted with [the Digital Academy Premium Design repository](https://github.com/CSPS-EFPC-DAAN/design-learners).
-- **Google Form**, for attendance and learning evaluations. 
+- **Google Forms**, for [attendance](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) and [learning evaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) to be completed every class.
 
 ## Logistics
 
@@ -81,7 +81,7 @@ We have a few last questions before your Digital Academy experience begins:
 2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
 3. Do you have any allergies (food, environmental, other)?
 
-**Please send your learner manual, consent form, and advise us of any allergies by Wednesday, February 20 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
+**Please send your learner manual, consent form, and advise us of any allergies by Wednesday, February 20 to <csps.premiumdigitalacademy-excellenceacademiquedunumerique.efpc@canada.ca>.**
 
 Should you have any questions, please contact us at the Digital Academy.
  
@@ -111,16 +111,20 @@ Pour commencer, nous avons créé une courte **vidéo** avec Nourhan et Ksenia p
 
 ## Cours suivants
 
-Après la première semaine, votre horaire pour chaque jeudi sera le suivant :
-- de 9 h à 12 h, travaux en laboratoire ou activités d’apprentissage; 
-- de 13 h à 16 h, formation en classe. 
-Tout se déroulera au 111, promenade Sussex
+Tous les jeudis, tu l'auras :
+- de 9 h à 12 h, travaux en laboratoire ou activités d’apprentissage/
+- de 13 h à 16 h, formation en classe dans la salle des Territoires du Nord-Ouest. 
+Tout se déroulera au 111, promenade Sussex. En plus de vos cours le jeudi, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Veuillez consulter cet horaire à jour pour plus d'information.
+
+## Practicum
+
+Practicum aura lieu du lundi 6 mai au vendredi 24 mai. Plus de détails à venir.
 
 ## Vos responsabilités
 
-Veuillez prendre note qu’il est **obligatoire de participer à l’ensemble des 4 journées de cours.**
+Veuillez prendre note qu’il est **obligatoire de participer en classe.**
 
-Tous les jeudis à 16 h, vous recevrez une courte évaluation qui vous permettra d’améliorer l’expérience Excellence des prochains groupes : votre participation sera gérée par le biais de l’évaluation hebdomadaire.
+Tous les jeudis à 16 h, vous recevrez une courte évaluation qui vous permettra d’améliorer l’expérience Excellence des prochains groupes.
 
 # Informations utiles
 
@@ -139,7 +143,7 @@ Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vo
 Tout au long de votre expérience Excellence, vous aurez accès à :
 - **Slack**, pour discuter avec vos collègues du programme de conception. Vous recevrez bientôt une invitation aux canaux Slack de l’Académie du numérique.
 - **GitHub**, pour le contenu des cours, les modules et les scripts. [Créez un compte GitHub]((https://github.com/) et familiarisez-vous avec le [répertoire Excellence de l’Académie du numérique](https://github.com/CSPS-EFPC-DAAN/design-learners).
-- **Textit**, pour améliorer votre expérience Excellence. C’est le lancement d’Excellence : vos idées sur les sujets, le contenu, les modules de cours sont très précieuses!
+- **[« Google Forms »]**, pour [les évaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) de [présence et d'apprentissage](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) à compléter à chaque cours. 
 
 ## Logistics
 
@@ -148,7 +152,7 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 - **Services alimentaires**: Une cafétéria se trouve sur place. Elle est ouverte tous les jours de 7 h à 15 h (avec options de service complet de 7 h à 13 h 30).
 - **Code vestimentaire**: Décontracté. Apportez un chandail ou une veste pour plus de confort.
 - **Allergies**: Certains participants peuvent souffrir d’hypersensibilité environnementale, veuillez par conséquent vous abstenir d’utiliser des produits parfumés pendant toute la durée du cours.
-- **Hébergement**: Veuillez contacter <csps.premiumdigitalacademy-excelenceacademiedunumerique.efpc@canada.ca> si vous avez besoin d’accommodements.
+- **Hébergement**: Veuillez contacter <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca> si vous avez besoin d’accommodements.
 
 # Restez en contact
 
