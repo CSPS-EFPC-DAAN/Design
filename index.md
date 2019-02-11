@@ -1,9 +1,3 @@
-index.html
-
-<!DOCTYPE html>
-<html>
-<body>
-  
 *(le français suit)*
 
 # Welcome to CSPS Digital Academy - Premium
@@ -182,8 +176,3 @@ Si vous avez des questions, n’hésitez pas à communiquer avec nous à l’Aca
 Merci d’avoir choisi l’École de la fonction publique du Canada! Nous nous réjouissons de vous rencontrer prochainement.
 
 ![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
-  
-</body>
-</hmtl>
-
-
