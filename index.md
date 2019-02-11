@@ -22,7 +22,7 @@ Every Thursday, you will have:
 - 9:00am - 12:00pm: Lab hours or designated learning events.
 - 1:00 - 4:00pm: In-class training in the Northwest Territories room.
 
-This will all take place at 111 Sussex Drive. In addition to your classes on Thursdays, you will be invited to an additional learning opportunity at least once a month. Please review this evergreen master schedule for more information. 
+This will all take place at 111 Sussex Drive. In addition to your classes on Thursdays, you will be invited to an additional learning opportunity at least once a month. Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more information. 
 
 ## Practicum
 
@@ -116,7 +116,7 @@ Tous les jeudis, tu l'auras :
 - de 9 h à 12 h, travaux en laboratoire ou activités d’apprentissage/
 - de 13 h à 16 h, formation en classe dans la salle des Territoires du Nord-Ouest. 
 
-Tout se déroulera au 111, promenade Sussex. En plus de vos cours le jeudi, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Veuillez consulter cet horaire à jour pour plus d'information.
+Tout se déroulera au 111, promenade Sussex. En plus de vos cours le jeudi, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Veuillez consulter [calendrier (en cours) pour plus d'information](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing).
 
 ## Practicum
 
