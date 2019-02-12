@@ -135,8 +135,8 @@ Tous les jeudis, veuillez remplir deux formulaires Google pour [marquer votre pr
 Le matériel de cours préparatoire et l’horaire des prochains cours seront disponibles deux jours avant le début de votre prochain cours sur [le répertoire du programme supérieur de design de l’Académie du numérique](https://github.com/CSPS-EFPC-DAAN/Design).
 
 Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vous pouvez prendre une longueur d’avance en lisant ce qui suit :
-
-- [« Design Thinking Comes of Age »](https://hbr.org/2015/09/design-thinking-comes-of-age), un article de la Harvard Business Review décrivant la culture et les pratiques centrées sur le design (en anglais seulement).
+«
+- [« Design Thinking Comes of Age »](https://hbr.org/2015/09/design-thinking-comes-of-age), un article de la « Harvard Business Review » décrivant la culture et les pratiques centrées sur le design (en anglais seulement).
 - [Plan stratégique sur les opérations numériques du gouvernement du Canada (Introduction et chapitre 1)](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html#ToC4), qui montre comment la technologie et les changements technologiques sont gérés au GC.
 - [Les normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/fonctionpublique/modernisation/normes-numeriques-gouvernement-canada.html), qui constituent le fondement de la transition du gouvernement vers une plus grande souplesse, une plus grande ouverture et une plus grande orientation vers l'utilisateur. 
 
