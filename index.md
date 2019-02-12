@@ -78,7 +78,7 @@ Keep up to date with Canada’s Digital Academy through:
 
 We have a few last questions before your Digital Academy experience begins:
  
-1. Fill out your [learner manual for me](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
+1. Fill out your [learner manual for me](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a guide for your professors and other learners to understand how you like to learn and work.
 2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
 3. Do you have any allergies (food, environmental, other)?
 
