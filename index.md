@@ -7,7 +7,7 @@ You’ve been selected to participate in the first design cohorts of the **Canad
 
 To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Thursday, February 28!
 
-[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/0/00/Dock-feet-footwear-128299.jpg)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
+![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/0/00/Dock-feet-footwear-128299.jpg)
 
 *************************
 
