@@ -49,9 +49,13 @@ While there are no required preparatory materials this week, you can get a head 
 ## Online Tools & Platforms
 
 Throughout your Premium experience, you will access:
-- **Slack**, for chatting with your design cohort and fellow Premium learners. You will soon receive an invitation to the Digital Academy Slack channels.
-- **GitHub**, for course content, modules and scripts. [Create a GitHub account](https://github.com/) and get acquainted with [the Digital Academy Premium Design repository](https://github.com/CSPS-EFPC-DAAN/design-learners).
+- **Slack**, for chatting with your design cohort and fellow Premium learners.
+- **GitHub**, for course content, modules and scripts. [Create a GitHub account here](https://github.com/).
+
+**NOTE**: You will recieve a few emails on the week of February 17th with access to Slack and GitHub along with support videos to get you started.
+
 - **Google Forms**, for [attendance](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) and [learning evaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) to be completed every class.
+
 
 ## Logistics
 
@@ -143,8 +147,11 @@ Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vo
 ## Outils
 
 Tout au long de votre expérience Excellence, vous aurez accès à :
-- **Slack**, pour discuter avec vos collègues du programme de conception. Vous recevrez bientôt une invitation aux canaux Slack de l’Académie du numérique.
-- **GitHub**, pour le contenu des cours, les modules et les scripts. [Créez un compte GitHub]((https://github.com/) et familiarisez-vous avec le [répertoire Excellence de l’Académie du numérique](https://github.com/CSPS-EFPC-DAAN/design-learners).
+- **Slack**, pour discuter avec vos collègues du programme de conception.
+- **GitHub**, pour le contenu des cours, les modules et les scripts. [Créez un compte GitHub ici](https://github.com/).
+
+**REMARQUE** : Vous recevrez quelques courriels la semaine du 17 février avec accès à Slack et GitHub ainsi que des vidéos pour vous aider à démarrer.
+
 - **Formulaires Google**, pour [les évaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) de [présence et d'apprentissage](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) à compléter à chaque cours. 
 
 ## Logistics
