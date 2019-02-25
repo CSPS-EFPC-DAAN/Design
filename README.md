@@ -56,6 +56,17 @@ Throughout your Premium experience, you will access:
 
 - **Google Forms**, for [attendance](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) and [learning evaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) to be completed every class.
 
+## Complete Your Basadur Profile
+
+We invite you to complete a **Basadur profile assessment** which identifies your unique blend of preferences for the four stages of the innovation process: generating, conceptualising, optimising, implementing.
+
+It is not a test and is not an evaluation of your creativity. The Profile simply helps determine and describe your individual unique creative style.
+
+Registering and completing the assessment should not take longer than 15 minutes. "Go with you gut" for best results. If it takes longer than 20 minutes, you are thinking too hard!
+
+To do the assessment, go to https://www.basadurprofile.com/JoinTeam.aspx?KEY=UGQWPPUI and create an account (test is available in both English and French).
+
+Note that your results will only be seen by you and an instructor who will discuss Basadur profiles next month.
 
 ## Logistics
 
