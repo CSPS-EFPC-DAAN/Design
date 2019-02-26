@@ -2,6 +2,7 @@
 
 # Welcome to CSPS Digital Academy - Premium
 # Congratulations!
+## Your Learner Manual
 
 You’ve been selected to participate in the first design cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
@@ -111,6 +112,7 @@ Thank you for participating in the beta cohort of the CSPS Digital Academy - Pre
 
 # Bienvenue à l’Académie numérique de l’EFPC — Excellence
 # Félicitations!
+## Votre manuel de l'apprenant
 
 Vous avez été choisi pour faire partie des premières cohortes de conception du programme **Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!**
 
