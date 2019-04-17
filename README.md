@@ -53,7 +53,7 @@ Throughout your Premium experience, you will access:
 - **Slack**, for chatting with your design cohort and fellow Premium learners.
 - **GitHub**, for course content, modules and scripts. [Create a GitHub account here](https://github.com/).
 
-**NOTE**: You will recieve a few emails on the week of February 17th with access to Slack and GitHub along with support videos to get you started.
+**NOTE**: You will receive a few emails on the week of February 17th with access to Slack and GitHub along with support videos to get you started.
 
 - **Google Forms**, for [attendance](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) and [learning evaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) to be completed every class.
 
